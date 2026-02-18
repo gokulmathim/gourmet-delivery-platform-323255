@@ -1,1 +1,3 @@
-# gourmet-delivery-platform-323255
+# Project Repository
+
+This is the initial README file for the project.
